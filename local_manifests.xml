@@ -2,11 +2,11 @@
 <manifest>
   <remote  name="Gtajisan"
            fetch="https://github.com/Gtajisan"
-           revision="Ameen" />
+           revision="android-12.1" />
 
                                    
  <!--Tree -->
- <project path="device/motorola/rhodei" name="android_device_motorola_rhodei" remote="Gtajisan" revision="Ameen" />
+ <project path="android_device_motorola_rhodep" name="android_device_motorola_rhodei" remote="Gtajisan" revision="android-12.1" />
 
  
 </manifest>
